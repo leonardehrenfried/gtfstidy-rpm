@@ -16,7 +16,7 @@ Version:                0.2
 # you'll need to coordinate the removal of the package's dependents first.
 # ---
 # REMOVE BEFORE SUBMITTING THIS FOR REVIEW
-%gometa -f
+# %gometa -f
 
 
 %global common_description %{expand:
